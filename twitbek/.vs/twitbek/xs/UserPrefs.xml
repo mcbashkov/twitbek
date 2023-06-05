@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7870853A-485A-4C5B-A3B2-0CDD636C0AFD}|Default">
+  <MonoDevelop.Ide.ItemProperties.twitbek FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.twitbek.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_3_API_UpsideDownCakePrivacySandbox" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="twitbek" expanded="True">
+            <Node name="twitbek" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="MainPage.xaml.cs" selected="True" />
+            </Node>
+            <Node name="twitbek.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+            </Node>
+            <Node name="twitbek.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.twitbek.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3_API_UpsideDownCakePrivacySandbox" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZH2uQk0YOajUOY8q6+a1LnCEPYIsXCnPcQKMdWBZdORR2tJlG5ennGOwV2FQ+kjPNQ/WaCxKFDp4NlBg/RR8pQ==",
+  "success": true,
+  "projectFilePath": "/Users/mcbasyar/Desktop/cuittan-backend/twitbek/twitbek/twitbek.iOS/twitbek.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/mcbasyar/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/mcbasyar/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/mcbasyar/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
